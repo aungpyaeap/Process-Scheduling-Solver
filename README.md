@@ -1,7 +1,6 @@
-# Process Scheduling Solver
-
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
 
+# Process Scheduling Solver
 Python code for classic CPU scheduling algorithms to compute Average Waiting Time (WT) and Average Turnaround Time (TT).
 
 ## Algorithms in repository
