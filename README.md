@@ -2,7 +2,7 @@
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
 
-Pyton code for classic CPU scheduling algorithms to compute Average Waiting Time (WT) and Average Turnaround Time (TT).
+Python code for classic CPU scheduling algorithms to compute Average Waiting Time (WT) and Average Turnaround Time (TT).
 
 ## Algorithms in repository
 - **`FCFS.py`**: First Come First Serve / FCFS
