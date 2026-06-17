@@ -10,7 +10,7 @@ Pyton code for classic CPU scheduling algorithms to compute Average Waiting Time
 - **`PP.py`**: Preemptive Priority
 - **`RR.py`**: Round-Robin / RR
 
-The implementations require the following packages:
+The implementations require following packages:
 - `numpy` - for numerical operations
 - `tabulate` - for formatted table output
 
